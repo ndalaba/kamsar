@@ -1,0 +1,35 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+Warning - 2013-08-10 08:54:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:55:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:55:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:55:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:55:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:55:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:55:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:56:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:56:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:56:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:56:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:56:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:57:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:57:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:57:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:57:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:57:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:59:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:59:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 08:59:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 09:00:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 09:00:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 09:00:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 09:43:10 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 10:07:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 10:07:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 11:22:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 11:42:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 12:23:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 12:23:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 12:23:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 12:23:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2013-08-10 12:23:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
